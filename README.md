@@ -1,4 +1,4 @@
-# EIP-7702 Demo API 📜🚀
+# EIP-7702 API 📜🚀
 
 [🇧🇷 Português](#português) | [🇺🇸 English](#english)
 
@@ -16,7 +16,7 @@ Uma implementação completa do **EIP-7702** (Set Code for EOAs) em Go, demonstr
 ### 🔧 Setup Rápido
 
 ```bash
-git clone https://github.com/seu-repo/eip7702-demo
+git clone https://github.com/omnes-tech/eip-7702-go
 cd eip7702-demo
 
 # Criar .env
@@ -389,7 +389,7 @@ A complete **EIP-7702** (Set Code for EOAs) implementation in Go, demonstrating:
 ### 🔧 Quick Setup
 
 ```bash
-git clone https://github.com/your-repo/eip7702-demo
+git clone https://github.com/omnes-tech/eip-7702-go
 cd eip7702-demo
 
 # Create .env
